@@ -13,17 +13,6 @@
 
 ---
 
-## Programs
-
-- VariablesExample.java
-- DataTypesExample.java
-- TypeCastingExample.java
-- ScannerInputExample.java
-- SwapNumbers.java
-- ASCIIValue.java
-- AreaCalculator.java
-- TemperatureConverter.java
-
 ---
 
 ## Interview Questions

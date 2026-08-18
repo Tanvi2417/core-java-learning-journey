@@ -1,0 +1,13 @@
+package day8_Array;
+
+public class ArrayInitialization {
+
+	public static void main(String[] args) {
+
+		int[] numbers = {10, 20, 30, 40, 50};
+
+		System.out.println("First Element: " + numbers[0]);
+		System.out.println("Third Element: " + numbers[2]);
+		System.out.println("Last Element: " + numbers[numbers.length - 1]);
+	}
+}
